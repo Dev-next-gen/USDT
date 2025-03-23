@@ -1,0 +1,20 @@
+{
+  "name": "USDT",
+  "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "timestamp": 1711200000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TMUHcxsPaW6aNtfntd9dtDPesjWZxe7v1W",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
